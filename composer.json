@@ -1,0 +1,26 @@
+{
+  "name": "adolph/email",
+  "description": "my first email package",
+  "keywords": ["package", "email"],
+  "authors": [
+    {
+      "name": "adolph",
+      "email": "1138027478@11.com"
+    }
+  ],
+  "require": {
+    "php": "^5.6.1 || ^7.0",
+    "phpmailer/phpmailer": "^5.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Adolph\\": "src/"
+    }
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  }
+}
