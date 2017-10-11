@@ -2,6 +2,7 @@
   "name": "adolph/email",
   "description": "my first email package",
   "keywords": ["package", "email"],
+  "license": "MIT",
   "authors": [
     {
       "name": "adolph",
