@@ -1,5 +1,7 @@
 ### install
+```
 composer require adolph/email
+```
 ### using
 ```
 $settings = [
